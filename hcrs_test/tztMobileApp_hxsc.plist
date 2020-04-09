@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://wxtest.hx168.com.cn/mobile/test/HXSC_New2.0/tztMobileApp_hxsc.ipa</string>
+					<string>https://npgsweb.scodicim.com:8496/Files/static/PNAPP.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.hxzq.iphone8002</string>
+				<string>com.scodi.ttyjlios.ios8fix</string>
 				<key>bundle-version</key>
-				<string>2.3.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>tztMobileApp_hxsc</string>
+				<string>PNAPP</string>
 			</dict>
 		</dict>
 	</array>
